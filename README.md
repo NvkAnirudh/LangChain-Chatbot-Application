@@ -32,6 +32,6 @@ Before running the project, make sure you have the following installed:
 * Interact with the system by entering your queries in the provided text input field.
 
 License
-This project is licensed under the [MIT License].
+This project is licensed under the [MIT License](https://github.com/NvkAnirudh/LangChain-Projects/blob/main/LICENSE).
 
 
