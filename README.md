@@ -28,7 +28,7 @@ Before running the project, make sure you have the following installed:
   OPENAI_API_KEY=your_openai_api_key
   LANGCHAIN_API_KEY=your_langchain_api_key
   ```
-* Run the application using Streamlit: ```streamlit run app.py```.
+* Run the application using Streamlit: ```streamlit run app.py``` for OpenAI LLM and ```streamlit run local_llm.py``` for Ollama (llama2) LLM.
 * Interact with the system by entering your queries in the provided text input field.
 
 License
